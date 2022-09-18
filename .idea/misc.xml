@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/AppsAndroid/CurrencyConverter/app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="..\:/AppsAndroid/CurrencyConverter/app/src/main/res/layout/drop_down_list.xml" value="0.24895833333333334" />
+        <entry key="..\:/AppsAndroid/CurrencyConverter/app/src/main/res/menu/options_menu.xml" value="0.1" />
+        <entry key="..\:/AppsAndroid/CurrencyConverter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11" />
+        <entry key="..\:/AppsAndroid/CurrencyConverter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11" />
       </map>
     </option>
   </component>

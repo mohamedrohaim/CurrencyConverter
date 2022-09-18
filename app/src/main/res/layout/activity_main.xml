@@ -6,6 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <Toolbar
+        android:id="@+id/tool_bar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@android:color/transparent"
+
+
+        />
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
@@ -139,6 +149,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Convert"
+        android:visibility="invisible"
         android:backgroundTint="@color/green"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
